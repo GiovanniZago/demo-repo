@@ -8,4 +8,5 @@ This is my first subheader
 
 ## Second subheader
 
-This should be visible only in the branch feature-modified-README
+This should be visible only in the branch feature-modified-README.
+This is another change I made in the branch feature-modified-README.
