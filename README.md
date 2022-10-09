@@ -1,3 +1,3 @@
 # First try
 
-I'm new to Git and GitHub
+I'm new to Git and GitHub!
